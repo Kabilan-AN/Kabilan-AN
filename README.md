@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kabilan-AN
-- - 👀 I’m interested in ... C#
-- 🌱 I’m currently learning ...Java programming
+- - 👀 I’m interested in ...Artificial Intelligence
+- 🌱 I’m currently learning ...Python programming
 - - 📫 How to reach me ... ankabilannagarajan@gmail.com 
 - 😄 Pronouns: ...Kabilan 
 
